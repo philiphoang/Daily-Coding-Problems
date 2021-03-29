@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def productOfAllNumbers(arr):
     """Return a new array with the product of all 
     numbers except for the number at index i
